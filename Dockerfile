@@ -82,4 +82,3 @@ WORKDIR /var/python
 
 COPY app.py .
 
-CMD python3 -d app.py
